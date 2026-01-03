@@ -1,0 +1,11 @@
+# Ren'Py compiled files VIN UPDATE
+*.rpyc
+*.rpymc
+
+# Saves and logs
+saves/
+log.txt
+
+# Build/distribution outputs
+/build/
+dist/
